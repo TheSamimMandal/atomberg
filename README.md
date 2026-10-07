@@ -1,8 +1,6 @@
-Atomberg Smart IR Remote Controller
+Atomberg Smart IR Remote Controller ⚡ is a lightweight, fast, and modern Android application designed to provide a convenient remote-control experience for compatible Atomberg BLDC ceiling fans using a device's built-in infrared (IR) blaster.
 
-Atomberg Smart IR Remote Controller is a lightweight, fast, and modern Android application designed to provide a convenient remote-control experience for compatible Atomberg BLDC ceiling fans using a device's built-in infrared (IR) blaster.
-
-The app focuses on simplicity, responsiveness, and offline operation. It provides a clean remote-style interface that allows users to control their compatible fan directly from their Android smartphone without requiring an internet connection, account, cloud service, or external remote-control hardware.
+The app focuses on simplicity, 
 
 ✨ Features
 
