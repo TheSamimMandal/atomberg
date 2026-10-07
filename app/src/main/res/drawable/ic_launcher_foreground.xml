@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle IR wave arcs at top -->
+    <path
+        android:strokeColor="#55FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M44,19 C50,15 58,15 64,19" />
+    <path
+        android:strokeColor="#AAFFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M48,23 C52,20 56,20 60,23" />
+
+    <!-- Remote body silhouette -->
+    <path
+        android:fillColor="#2D3038"
+        android:strokeColor="#4E5260"
+        android:strokeWidth="1.5"
+        android:pathData="M42,26 L66,26 A10,10 0 0 1 76,36 L76,82 A10,10 0 0 1 66,92 L42,92 A10,10 0 0 1 32,82 L32,36 A10,10 0 0 1 42,26 Z" />
+
+    <!-- Upper remote glossy face plate -->
+    <path
+        android:fillColor="#24262E"
+        android:pathData="M42,27 L66,27 A9,9 0 0 1 75,36 L75,68 L33,68 L33,36 A9,9 0 0 1 42,27 Z" />
+
+    <!-- Remote top left signature circle cut-out -->
+    <path
+        android:fillColor="#15161A"
+        android:strokeColor="#3F424E"
+        android:strokeWidth="1"
+        android:pathData="M43,36 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0" />
+
+    <!-- Indicator LED dot -->
+    <path
+        android:fillColor="#E0E6ED"
+        android:pathData="M54,34 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+
+    <!-- Red Power Button -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M65,36 m-3.8,0 a3.8,3.8 0 1,0 7.6,0 a3.8,3.8 0 1,0 -7.6,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.8"
+        android:strokeLineCap="round"
+        android:pathData="M65,34 L65,36 M63.2,35 A2.2,2.2 0 1 0 66.8,35" />
+
+    <!-- Main Circular Control Dial -->
+    <path
+        android:fillColor="#1E2026"
+        android:strokeColor="#3C3F4D"
+        android:strokeWidth="1"
+        android:pathData="M54,51 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+
+    <!-- Center Boost Button (B) -->
+    <path
+        android:fillColor="#2A2D36"
+        android:pathData="M54,51 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0" />
+    <!-- Letter B in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52.5,48.5 L54.5,48.5 C55.3,48.5 55.9,48.9 55.9,49.6 C55.9,50.1 55.6,50.5 55.1,50.7 C55.7,50.9 56.1,51.4 56.1,52 C56.1,52.8 55.4,53.5 54.5,53.5 L52.5,53.5 Z M53.5,49.4 L53.5,50.5 L54.3,50.5 C54.7,50.5 55,50.3 55,49.9 C55,49.6 54.7,49.4 54.3,49.4 Z M53.5,51.3 L53.5,52.6 L54.4,52.6 C54.8,52.6 55.1,52.3 55.1,52 C55.1,51.6 54.8,51.3 54.4,51.3 Z" />
+
+    <!-- Speed tick marks on outer ring -->
+    <path
+        android:fillColor="#9EA4B0"
+        android:pathData="M53.5,42.5 h1 v1.5 h-1 z" />
+    <path
+        android:fillColor="#9EA4B0"
+        android:pathData="M61.5,47 h1.5 v1 h-1.5 z" />
+    <path
+        android:fillColor="#9EA4B0"
+        android:pathData="M60,56.5 h1.2 v1 h-1.2 z" />
+    <path
+        android:fillColor="#9EA4B0"
+        android:pathData="M46.8,56.5 h1.2 v1 h-1.2 z" />
+    <path
+        android:fillColor="#9EA4B0"
+        android:pathData="M45,47 h1.5 v1 h-1.5 z" />
+
+    <!-- Bottom three buttons (Timer, LED, Sleep) -->
+    <path
+        android:fillColor="#24262E"
+        android:strokeColor="#3F424E"
+        android:strokeWidth="0.8"
+        android:pathData="M42,63 m-2.8,0 a2.8,2.8 0 1,0 5.6,0 a2.8,2.8 0 1,0 -5.6,0" />
+    <path
+        android:fillColor="#24262E"
+        android:strokeColor="#3F424E"
+        android:strokeWidth="0.8"
+        android:pathData="M54,63 m-2.8,0 a2.8,2.8 0 1,0 5.6,0 a2.8,2.8 0 1,0 -5.6,0" />
+    <path
+        android:fillColor="#24262E"
+        android:strokeColor="#3F424E"
+        android:strokeWidth="0.8"
+        android:pathData="M66,63 m-2.8,0 a2.8,2.8 0 1,0 5.6,0 a2.8,2.8 0 1,0 -5.6,0" />
+</vector>
